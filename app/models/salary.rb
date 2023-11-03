@@ -1,0 +1,4 @@
+class Salary < Employee
+    
+  end
+  

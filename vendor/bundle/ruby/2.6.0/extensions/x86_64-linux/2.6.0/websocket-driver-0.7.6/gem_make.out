@@ -1,0 +1,18 @@
+current directory: /home/deepak/Project_/project/Admin/employee_management/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/deepak/.rvm/rubies/ruby-2.6.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/deepak/Project_/project/Admin/employee_management/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231101-111251-sywitq sitelibdir\=./.gem.20231101-111251-sywitq clean
+
+current directory: /home/deepak/Project_/project/Admin/employee_management/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231101-111251-sywitq sitelibdir\=./.gem.20231101-111251-sywitq
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/deepak/Project_/project/Admin/employee_management/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231101-111251-sywitq sitelibdir\=./.gem.20231101-111251-sywitq install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20231101-111251-sywitq
+
+current directory: /home/deepak/Project_/project/Admin/employee_management/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20231101-111251-sywitq sitelibdir\=./.gem.20231101-111251-sywitq clean
